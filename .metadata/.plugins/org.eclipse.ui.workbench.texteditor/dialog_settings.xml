@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="true"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="Nota"/>
+		<list key="findhistory">
+			<item value="BaseSalary"/>
+			<item value="baseSalary"/>
+			<item value="BirthDate"/>
+			<item value="birthDate"/>
+			<item value="email"/>
+			<item value="Email"/>
+			<item value="name"/>
+			<item value="Name"/>
+			<item value="department"/>
+			<item value="Department"/>
+			<item value="Seller"/>
+			<item value="seller"/>
+			<item value="Categoria"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Nota"/>
+			<item value="nota"/>
+			<item value="AdicionadoEm"/>
+			<item value="adicionadoEm"/>
+			<item value="temporadas"/>
+			<item value="Temporadas"/>
+			<item value="nome"/>
+			<item value="Nome"/>
+			<item value="categoria"/>
+			<item value="Categoria"/>
+			<item value="Series"/>
+			<item value="series"/>
+			<item value="Seller"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="801"/>
+		<item key="DIALOG_Y_ORIGIN" value="222"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

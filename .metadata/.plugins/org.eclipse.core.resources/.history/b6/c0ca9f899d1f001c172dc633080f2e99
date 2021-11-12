@@ -1,0 +1,36 @@
+package application;
+
+import java.util.Scanner;
+
+import entities.Student;
+
+public class Notas {
+	
+	public static void main(String[] args) {
+		
+		Scanner teclado = new Scanner(System.in);
+		
+		Notas student = new Notas();
+		
+		System.out.println("Digite o nome do Aluno: ");
+		String aluno = teclado.next();
+		
+		System.out.println("Digite as notas do aluno " + aluno + ":");
+		double nota1 = teclado.nextDouble();
+		double nota2 = teclado.nextDouble();
+		double nota3 = teclado.nextDouble();
+		
+		System.out.printf("FINAL GRADE: %.2f%n", studant.finalGrade());
+		if (finalGrade() < 60.0) {
+		System.out.println("FAILED");
+		System.out.printf("MISSING %.2f POINTS%n", missingPoints());
+		}
+		else {
+		System.out.println("PASS");
+		}
+		teclado.close();
+
+		
+	}	
+	
+}

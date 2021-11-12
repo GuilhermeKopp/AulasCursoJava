@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\guiko\eclipse-workspace\MobileStefanini\src\main\resources\features\Clock.feature"/>
+			<item value="C:\Users\guiko\OneDrive\Documentos\TesteDeSoftware\CacheiroViajante-master"/>
+			<item value="C:\Users\guiko\OneDrive\Documentos\TesteDeSoftware\HackathonFInal2021"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="grupo1Trainee"/>
+			<item value="LittleProject"/>
+			<item value="GuilhermeKoppPinheiro"/>
+			<item value="Guilherme_Kopp_Pinheiro"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="acessoSistema"/>
+			<item value="ProgramacaoJava"/>
+			<item value="DESAFIO_MOBILE-GuilhermeKoppPinheiro"/>
+			<item value="Guilherme_Kopp_Pinheiro"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\_desenv\fonte_back\java"/>
+			<item value="C:\_desenv\proposta\java"/>
+			<item value="C:\Users\guiko\GitCaminho\java-master-96fb5086b7a97fb3d0c3446910c40f0803631a48"/>
+			<item value="C:\Users\guiko\Music\MANTRAS LAYA YOGA\java-master-96fb5086b7a97fb3d0c3446910c40f0803631a48"/>
+			<item value="C:\Users\guiko\OneDrive\Documentos\TesteDeSoftware\java-master-b12adfb45e2266f670af63f6c6ac5b6919281e09"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

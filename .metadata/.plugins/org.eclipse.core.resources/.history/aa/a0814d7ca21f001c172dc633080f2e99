@@ -1,0 +1,20 @@
+package application;
+
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		Scanner teclado = new Scanner(System.in);
+		
+		System.out.println("Digite o preço do dolar: ");
+		String preco = teclado.next();
+		
+		System.out.println("Digite o preço do dolar: ");
+		double qtdReal = teclado.nextDouble();
+		
+	   
+	}
+
+}

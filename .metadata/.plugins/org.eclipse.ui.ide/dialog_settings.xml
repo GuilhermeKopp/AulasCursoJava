@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\guiko\eclipse-workspace\jdbc1"/>
+			<item value="C:\_desenv\fonte_back"/>
+			<item value="C:\Users\guiko\GitCaminho\java-master-96fb5086b7a97fb3d0c3446910c40f0803631a48"/>
+			<item value="C:\Users\guiko\Music\MANTRAS LAYA YOGA\java-master-96fb5086b7a97fb3d0c3446910c40f0803631a48"/>
+			<item value="C:\Users\guiko\OneDrive\Documentos\TesteDeSoftware\apache-maven-3.8.2"/>
+			<item value="C:\Users\guiko\eclipse-workspace\interfaces"/>
+			<item value="C:\Users\guiko\eclipse-workspace\herança_polimorfismo"/>
+			<item value="C:\Users\guiko\OneDrive\Documentos\TesteDeSoftware\java-master-b12adfb45e2266f670af63f6c6ac5b6919281e09"/>
+			<item value="C:\Users\guiko\eclipse-workspace\curso_programacao"/>
+			<item value="C:\Users\guiko\Downloads\StefaniniArtefatos\SistemaBancario"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="662"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

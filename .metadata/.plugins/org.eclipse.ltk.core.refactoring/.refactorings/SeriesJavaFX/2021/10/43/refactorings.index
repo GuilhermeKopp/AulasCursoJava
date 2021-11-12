@@ -1,0 +1,27 @@
+1634679471871	Rename type 'SellerService'
+1634679502833	Rename type 'DepartmentService'
+1634679547867	Rename type 'Seller'
+1634679567253	Rename type 'Department'
+1634679579847	Rename type 'SellerDaoJDBC'
+1634679595839	Rename type 'DepartmentDaoJDBC'
+1634679616522	Rename type 'SellerDao'
+1634679635387	Rename type 'DepartmentDao'
+1634679764267	Rename type 'DepartmentFormController'
+1634679778383	Rename type 'DepartmentListController'
+1634679801840	Rename type 'SellerFormController'
+1634679815740	Rename type 'SellerListController'
+1634679827105	Rename resource 'DepartmentForm.fxml'
+1634679840574	Rename resource 'DepartmentList.fxml'
+1634679852848	Rename resource 'SellerForm.fxml'
+1634679862535	Rename resource 'SellerList.fxml'
+1634693262656	Rename resource 'About.fxml'
+1634741909430	Delete element
+1634742109457	Delete element
+1634769161972	Copy file
+1634769166909	Copy file
+1634769171356	Delete element
+1634769175509	Delete element
+1634769419571	Delete element
+1634769426674	Delete element
+1634769728880	Delete element
+1634774769268	Delete element
